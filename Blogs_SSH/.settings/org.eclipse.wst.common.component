@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Blogs_SSH">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="/JavaPrj_4"/>
+        <property name="java-output-path" value="/Blogs_SSH/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>
